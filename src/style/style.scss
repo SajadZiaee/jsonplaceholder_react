@@ -1,0 +1,27 @@
+body {
+    background-color: #f4f4f4f4;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.card-text {
+    .single-post {
+        height: 5rem;
+    }
+
+    overflow: hidden;
+    text-align: left;
+}
+
+.card-title {
+
+    height: 1.7rem;
+    overflow: hidden;
+
+}
+
+.single-user {
+    min-width: max-content;
+}
